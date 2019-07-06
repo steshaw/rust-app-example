@@ -2,5 +2,6 @@
 name = 'rust-app-example'
 version = '0.1.0'
 authors = ['Steven Shaw <steven@steshaw.org>']
-license = 'Apache-2.0'
+licence = 'MIT'
+licence-file = 'LICENCE-MIT'
 edition = '2018'
