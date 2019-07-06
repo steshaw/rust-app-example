@@ -1,0 +1,14 @@
+[package]
+name = 'rust-app-example'
+version = '0.1.0'
+authors = ['Steven Shaw <steven@steshaw.org>']
+license = 'Apache-2.0'
+edition = '2018'
+
+[dependencies]
+#bytes = "0.4.8"
+#clap = "*"
+#hyper = ">= 0.12.1"
+#hyper-tls = "0.2.0"
+#pretty_env_logger = "*"
+#tokio-core = ">= 0.1.17"
